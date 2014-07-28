@@ -1,0 +1,7 @@
+{
+  "name": "normalise-country",
+  "version": "0.0.1",
+  "dependencies": {
+    "country-data": "0.0.13"
+  }
+}
